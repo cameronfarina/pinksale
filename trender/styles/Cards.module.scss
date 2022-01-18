@@ -1,0 +1,52 @@
+.row {
+  width: 290px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 auto;
+
+  .card {
+    padding: 25px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 8px;
+    display: flex;
+    height: 250px;
+    justify-content: space-evenly;
+    flex-direction: column;
+    box-shadow: 0 10px 15px -3px rgb(0 0 0/0.1), 0 4px 6px -4px rgb(0 0 0/0.1);
+
+    h3 {
+      margin: 0;
+      color: rgb(249, 89, 151);
+      font-size: 24px;
+      text-align: center;
+      font-weight: 900;
+    }
+
+    hr {
+      border-color: rgb(249, 89, 151);
+      margin-top: -10px;
+      font-weight: 900;
+    }
+
+    p {
+      font-weight: 700;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    .price {
+      color: rgb(3, 201, 82);
+    }
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .row {
+    width: 932px;
+    padding: 50px 25px;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

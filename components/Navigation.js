@@ -6,9 +6,7 @@ const Navigation = () => {
     <div className="bg-white text-darkgrey h-20 sm:h-24 flex items-center border-b border-solid border-divider mb-12 px-4">
       <div className={styles.navigationContainer}>
         <div>
-          <a href="/#" className={styles.logo}>
-            PINKSALE PROS
-          </a>
+          <p className={styles.logo}>PINKSALE PROS</p>
         </div>
         <div className="flex">
           <div className={styles.navButton}>

@@ -10,10 +10,10 @@ const Content = () => {
         <div className={styles.masthead}>
           <p>
             <strong>General service introduction:</strong>
-            <br /> Promote and elevate your BEP20 (BSC) project on PinkSale's
-            top #12 trending list. We are the best provider to get PinkSale
-            trending traffic, and for one of the most affordable prices in the
-            industry.
+            <br /> Promote and elevate your BEP20 (BSC) project on
+            PinkSale&apos;s top #12 trending list. We are the best provider to
+            get PinkSale trending traffic, and for one of the most affordable
+            prices in the industry.
             <br />
             <br />
             Our high quality trending service will elevate your project on

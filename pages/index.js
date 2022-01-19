@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 import Masthead from "../components/Masthead";
 import Card from "../components/Card";
 import Contact from "../components/Contact";

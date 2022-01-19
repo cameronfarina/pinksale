@@ -25,14 +25,14 @@ const Content = () => {
               Deposit for PinkSale trending packages is 100% of the total price:
             </strong>
             <br />
-            Please make sure to confirm with @Alex on Telegram on the set time
+            Please make sure to confirm with @lexthu on Telegram on the set time
             of your service delivery prior to order if your order is time
             sensitive.
             <br />
             <br />
             <strong>Do you have any questions before ordering?:</strong>
             <br /> Feel free to contact our Sales & PR specialist on Telegram
-            @Alex. He will always be in touch with you and your team. If you
+            @lexthu. He will always be in touch with you and your team. If you
             want to keep updated of our services, feel free to also join our
             Telegram channel @RankedUpServices.
             <br />

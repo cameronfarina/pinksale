@@ -10,10 +10,10 @@ const Contact = () => {
           <div className="flex items-center"></div>
           <div className="">
             <div className="mt-4 text-center flex justify-center">
-              <p className="text-xl text-gray-400 mb-16 max-w-screen-md">
+              <p className="text-xl text-gray-600 mb-16 max-w-screen-md">
                 We are here to answer any questions you have regarding our
                 services. If you have any further questions, please message us
-                on Telegram: @Alex.
+                on Telegram: @lexthu
               </p>
             </div>
           </div>

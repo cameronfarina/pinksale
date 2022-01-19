@@ -22,6 +22,7 @@
     }
 
     p {
+      color: #575b62;
       strong {
         color: rgb(55, 96, 250);
         font-size: 18px;
@@ -64,6 +65,14 @@
     .masthead {
       margin-top: 0;
 
+      p {
+        font-size: 22px;
+
+        strong {
+          font-size: 22px;
+        }
+      }
+
       h3 {
         margin-top: 0;
       }
@@ -71,6 +80,30 @@
 
     .imageContainer {
       width: 45%;
+    }
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .mastheadContainer {
+    width: 932px;
+    padding: 50px 25px;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .masthead {
+      width: 100%;
+
+      h3 {
+        margin-top: 0;
+      }
+
+      p {
+        font-size: 30px;
+
+        strong {
+          font-size: 30px;
+        }
+      }
     }
   }
 }

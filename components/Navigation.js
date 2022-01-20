@@ -3,7 +3,7 @@ import styles from "../styles/Navigation.module.scss";
 
 const Navigation = () => {
   return (
-    <div className="bg-white text-darkgrey h-20 sm:h-24 flex items-center border-b border-solid border-divider mb-12 px-4">
+    <div className="bg-white text-darkgrey h-20 sm:h-24 flex items-center border-b border-solid border-divider px-4">
       <div className={styles.navigationContainer}>
         <div>
           <p className={styles.logo}>PINKSALE PROS</p>

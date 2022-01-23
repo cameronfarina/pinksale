@@ -1,6 +1,4 @@
 import React from "react";
-import Image from "next/image";
-import { useRouter } from "next/router";
 import styles from "../styles/Masthead.module.scss";
 
 const Masthead = () => {
@@ -16,7 +14,7 @@ const Masthead = () => {
         <iframe
           width="853"
           height="480"
-          src={`https://www.youtube.com/embed/3V8Nl2Tk86s`}
+          src={`https://www.youtube.com/embed/5VjDqmWX3wk`}
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen

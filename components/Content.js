@@ -32,9 +32,7 @@ const Content = () => {
             <br />
             <strong>Do you have any questions before ordering?:</strong>
             <br /> Feel free to contact our Sales & PR specialist on Telegram
-            @lexthu. He will always be in touch with you and your team. If you
-            want to keep updated of our services, feel free to also join our
-            Telegram channel @RankedUpServices.
+            @lexthu. He will always be in touch with you and your team.
             <br />
             <br />
             <strong>Available payment methods:</strong>

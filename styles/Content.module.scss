@@ -11,7 +11,8 @@
     width: 100%;
 
     h3 {
-      color: rgb(249, 89, 151);
+      // color: rgb(249, 89, 151);
+      color: black;
       margin: 0;
       font-weight: 700;
     }
@@ -22,14 +23,17 @@
     }
 
     p {
-      color: rgb(249, 89, 151);
+      // color: rgb(249, 89, 151);
+      color: black;
       strong {
         color: rgb(55, 96, 250);
         font-size: 18px;
       }
 
       .pink {
-        color: rgb(249, 89, 151);
+        // color: rgb(249, 89, 151);
+        color: black;
+
         font-weight: 700;
       }
     }

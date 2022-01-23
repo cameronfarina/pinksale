@@ -10,7 +10,7 @@ const SectionHeading = ({ text }) => {
       </div>
       <div className="inline-block">
         <div className="flex items-center w-full text-center mx-auto">
-          <div className="text-center text-pink ">
+          <div className="text-center text-black ">
             <h1 className="text-3xl sm:text-5xl font-black mb-2">{text}</h1>
           </div>
         </div>

@@ -1,5 +1,5 @@
 .container {
-  padding: 0 1rem;
+  /* padding: 0 1rem; */
   background: pink;
 }
 
@@ -30,7 +30,8 @@
 }
 
 .footer p {
-  color: rgb(249, 89, 151);
+  /* color: rgb(249, 89, 151); */
+  color: black;
 }
 
 .title a {

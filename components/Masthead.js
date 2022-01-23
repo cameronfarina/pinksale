@@ -12,8 +12,8 @@ const Masthead = () => {
       </div>
       <div className={styles.imageContainer}>
         <iframe
-          width="853"
-          height="480"
+          // width="853"
+          // height="680"
           src={`https://www.youtube.com/embed/5VjDqmWX3wk`}
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

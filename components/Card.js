@@ -26,9 +26,9 @@ const Card = () => {
         <div className={styles.card}>
           <h3>SERVICE</h3>
           <hr />
-          <p>Trending within 1 hour</p>
-          <p>Continued support for 48 hours</p>
-          <p>Support for Presale Duration</p>
+          <p>Trending Within 1 Hour</p>
+          <p>Follow Ups for 48 Hours</p>
+          <p>Support for Entire Presale</p>
         </div>
       </div>
     </div>

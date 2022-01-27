@@ -11,14 +11,12 @@ const Content = () => {
           <p>
             <strong>General service introduction:</strong>
             <br /> Promote and elevate your BEP20 (BSC) project on
-            PinkSale&apos;s top #12 trending list. We are the best provider to
-            get PinkSale trending traffic, and for one of the most affordable
-            prices in the industry.
+            PinkSale&apos;s trending list. We are the best and most affordable
+            provider on the market.
             <br />
             <br />
-            Our high quality trending service will elevate your project on
-            PinkSale by getting you listed and right to the top of the trending
-            list.
+            Our top-notch service will elevate your project on PinkSale by
+            getting you listed on PinkSale trending.
             <br />
             <br />
             <strong>
@@ -31,15 +29,13 @@ const Content = () => {
             <br />
             <br />
             <strong>Do you have any questions before ordering?:</strong>
-            <br /> Feel free to contact our Sales & PR specialist on Telegram
-            @lexthu. He will always be in touch with you and your team.
+            <br /> Contact us on Telegram @lexthu. He will always be
             <br />
             <br />
             <strong>Available payment methods:</strong>
             <br />
             We only accept payments via cryptocurrencies (ERC-20 or BEP-20)
-            equivalent worth in US dollars. Send us a message on Telegram to get
-            started!
+            equivalent worth in US dollars.
           </p>
         </div>
       </div>

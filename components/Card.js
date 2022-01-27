@@ -10,32 +10,25 @@ const Card = () => {
 
       <div className={styles.row}>
         <div className={styles.card}>
-          <h3>RANKING</h3>
+          <h3>PLANS</h3>
           <hr />
-          <p>Top 1 - 12</p>
-          <p>Top 1 - 12</p>
-          <p>Top 1 - 12</p>
+          <p>Starter</p>
+          <p>Intermediate</p>
+          <p>Expert</p>
         </div>
         <div className={styles.card}>
           <h3>PRICE</h3>
           <hr />
-          <p className={styles.price}>$700</p>
-          <p className={styles.price}>$1800</p>
-          <p className={styles.price}>$4000</p>
+          <p className={styles.price}>$500</p>
+          <p className={styles.price}>$800</p>
+          <p className={styles.price}>$1500</p>
         </div>
         <div className={styles.card}>
-          <h3>DISCOUNT</h3>
+          <h3>SERVICE</h3>
           <hr />
-          <p className={styles.discount}>$0</p>
-          <p className={styles.discount}>$300</p>
-          <p className={styles.discount}>$900</p>
-        </div>
-        <div className={styles.card}>
-          <h3>DURATION</h3>
-          <hr />
-          <p>24 hours</p>
-          <p>72 hours</p>
-          <p>168 hours</p>
+          <p>Trending within 1 hour</p>
+          <p>Continued support for 48 hours</p>
+          <p>Support for Presale Duration</p>
         </div>
       </div>
     </div>
